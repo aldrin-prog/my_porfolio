@@ -31,7 +31,7 @@ export default function Education() {
   ]
 
   return (
-    <section id="education" className="py-20 bg-white">
+    <section id="education" className="py-20 bg-secondary/20">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-bold mb-12 text-center">Education and Training</h2>
         <div className="grid md:grid-cols-2 gap-8">
